@@ -1,15 +1,12 @@
 {
   "folders": [
-	{
-		"path": "."
-	}
-],
+    {
+      "path": "../CopyCat"
+    }
+  ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "Cory_GOAT",
-    "cSpell.words": [
-      "Mii's",
-      "topnav"
-    ]
+    "liveServer.settings.multiRootWorkspaceName": "Test",
+    "cSpell.words": ["Mii's", "topnav"]
   },
   "launch": {
     "version": "0.2.0",
